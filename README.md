@@ -1,6 +1,6 @@
 # Learnova AI: Understand Better. Learn Smarter. Grow Beyond.
 
-**Multimodal AI Hackathon 2026 — Track D: Personalized Tutoring & Adaptive Learning**
+
 
 Learnova AI is a production-grade, source-grounded intelligent learning companion designed to help students master complex course materials with zero hallucination risk, adaptive dynamic quizzes, continuous cognitive learner modeling, and tailored study plans.
 
