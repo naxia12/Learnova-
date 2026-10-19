@@ -1,0 +1,8 @@
+{
+  "name": "Learnova",
+  "description": "Understand Better. Learn Smarter. Grow Beyond. Adaptive AI tutoring with source-grounded citations, personalized quizzes, and dynamic study plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
